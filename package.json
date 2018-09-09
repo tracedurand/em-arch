@@ -1,0 +1,22 @@
+{
+  "name": "em-arch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracedurand/em-arch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tracedurand/em-arch/issues"
+  },
+  "homepage": "https://github.com/tracedurand/em-arch#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
